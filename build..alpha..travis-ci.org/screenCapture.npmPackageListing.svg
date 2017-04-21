@@ -1,0 +1,53 @@
+<svg height="798" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="798" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 17:59:09 +0000   143647 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 17:59:09 +0000     2410 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 17:59:09 +0000     1416 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 17:59:09 +0000       71 bytes  Gemfile</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 17:59:09 +0000      704 bytes  Gemfile.lock</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 17:59:09 +0000     4127 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 17:59:09 +0000     1058 bytes  LICENSE</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 17:59:09 +0000     2802 bytes  README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 17:59:09 +0000      915 bytes  bower.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 17:59:09 +0000    16494 bytes  dist/jquery.sidr.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 17:59:09 +0000     7034 bytes  dist/jquery.sidr.min.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 17:59:09 +0000      184 bytes  dist/stylesheets/jquery.sidr.bare.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 17:59:09 +0000     4082 bytes  dist/stylesheets/jquery.sidr.dark.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 17:59:09 +0000     3547 bytes  dist/stylesheets/jquery.sidr.dark.min.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 17:59:09 +0000     4081 bytes  dist/stylesheets/jquery.sidr.light.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 17:59:09 +0000     3544 bytes  dist/stylesheets/jquery.sidr.light.min.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 17:59:09 +0000     1367 bytes  examples/README.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 17:59:09 +0000     8004 bytes  examples/anchor-menu.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 17:59:09 +0000     4851 bytes  examples/full-width.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 17:59:09 +0000     1398 bytes  examples/index.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 17:59:09 +0000     5004 bytes  examples/menu-with-callbacks.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 17:59:09 +0000     1217 bytes  examples/menu.gif</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 17:59:09 +0000     5767 bytes  examples/multiple-menus.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 17:59:09 +0000     4288 bytes  examples/nodisplaced-menu-with-close-options.htm\</tspan>
+<tspan x="10" y="410">l</tspan>
+<tspan x="10" y="426"> 24.  2017-04-21 17:59:09 +0000     4996 bytes  examples/only-click.html</tspan>
+<tspan x="10" y="442"> 25.  2017-04-21 17:59:09 +0000       40 bytes  examples/remote-content.html</tspan>
+<tspan x="10" y="458"> 26.  2017-04-21 17:59:09 +0000     4658 bytes  examples/simple-menu.html</tspan>
+<tspan x="10" y="474"> 27.  2017-04-21 17:59:09 +0000     2450 bytes  examples/style.css</tspan>
+<tspan x="10" y="490"> 28.  2017-04-21 17:59:09 +0000     1561 bytes  karma.conf.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-21 17:59:09 +0000     1836 bytes  package.json</tspan>
+<tspan x="10" y="522"> 30.  2017-04-21 17:59:09 +0000      137 bytes  spec/execute.spec.js</tspan>
+<tspan x="10" y="538"> 31.  2017-04-21 17:59:09 +0000     3559 bytes  spec/fnSidr.spec.js</tspan>
+<tspan x="10" y="554"> 32.  2017-04-21 17:59:09 +0000     3505 bytes  spec/helper.spec.js</tspan>
+<tspan x="10" y="570"> 33.  2017-04-21 17:59:09 +0000    16870 bytes  spec/menu.spec.js</tspan>
+<tspan x="10" y="586"> 34.  2017-04-21 17:59:09 +0000      122 bytes  spec/sidr.spec.js</tspan>
+<tspan x="10" y="602"> 35.  2017-04-21 17:59:09 +0000      388 bytes  spec/status.spec.js</tspan>
+<tspan x="10" y="618"> 36.  2017-04-21 17:59:09 +0000      242 bytes  src/jquery.sidr.js</tspan>
+<tspan x="10" y="634"> 37.  2017-04-21 17:59:09 +0000      442 bytes  src/js/execute.js</tspan>
+<tspan x="10" y="650"> 38.  2017-04-21 17:59:09 +0000     3789 bytes  src/js/fnSidr.js</tspan>
+<tspan x="10" y="666"> 39.  2017-04-21 17:59:09 +0000     1938 bytes  src/js/helper.js</tspan>
+<tspan x="10" y="682"> 40.  2017-04-21 17:59:09 +0000     6272 bytes  src/js/menu.js</tspan>
+<tspan x="10" y="698"> 41.  2017-04-21 17:59:09 +0000     1024 bytes  src/js/sidr.js</tspan>
+<tspan x="10" y="714"> 42.  2017-04-21 17:59:09 +0000       83 bytes  src/js/status.js</tspan>
+<tspan x="10" y="730"> 43.  2017-04-21 17:59:09 +0000      415 bytes  src/scss/jquery.sidr.bare.scss</tspan>
+<tspan x="10" y="746"> 44.  2017-04-21 17:59:09 +0000      349 bytes  src/scss/jquery.sidr.dark.scss</tspan>
+<tspan x="10" y="762"> 45.  2017-04-21 17:59:09 +0000      355 bytes  src/scss/jquery.sidr.light.scss</tspan>
+<tspan x="10" y="778"> 46.  2017-04-21 17:59:09 +0000     4251 bytes  src/scss/sidr/_base.scss</tspan>
+</text>
+</svg>
